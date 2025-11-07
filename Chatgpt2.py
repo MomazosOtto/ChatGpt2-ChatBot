@@ -1,3 +1,9 @@
+primaryColor="#113c5a"
+backgroundColor="#153ceb"
+secondaryBackgroundColor="#2b337a"
+textColor="#ffffff"
+font="sans serif"
+
 # IMPORTAMOS Streamlit
 # pip install python | python -m install streamlit
 import streamlit as st
